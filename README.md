@@ -73,9 +73,9 @@ As the project involved creating a system that generates RDF/XML files conformin
             
             Feedback from mentor enriched my understanding and significantly influenced the quality of my work. <br/>
 
-    - ## And much more .... <br/>
+    - ### And much more .... <br/>
 
-- # **All of the work done during GSoC can be found [HERE](https://github.com/creativecommons/cc-legal-tools-app/pull/357)**
+- ## **All of the work done during GSoC can be found [HERE](https://github.com/creativecommons/cc-legal-tools-app/pull/357)**
 
 ## Mentorship and Gratitude
   I extend my heartfelt appreciation to my mentor, [***Timid Robot***](https://github.com/TimidRobot), for being an unwavering source of guidance and support throughout this remarkable journey. Your invaluable insights, patient guidance, and willingness to share your expertise have been instrumental in my growth and learning. Your mentorship has made this journey an unforgettable experience, and I am truly grateful for the opportunity to have worked with you.
@@ -86,7 +86,7 @@ Through this project, I acquired in-depth knowledge of `RDF`, `RDF/XML`, `Django
 
 Looking ahead, I am excited about the potential for further enhancements, the groundwork laid during this project establishes a strong foundation for further enhancements like exploring external application integration possibilities.
 
-## Thanks to [Creative Commons](https://creativecommons.org/) and [Timid Robot](https://github.com/TimidRobot) for providing me with an incredible Summer of Code experience!
+### Thanks to [Creative Commons](https://creativecommons.org/) and [Timid Robot](https://github.com/TimidRobot) for providing me with an incredible Summer of Code experience!
 
 <p align="center">
   ************
