@@ -47,8 +47,28 @@
 
 
 # Contributions and The Work
+As the project involved creating a system that generates RDF/XML files conforming to the latest specifications for all versions of Creative Commons licenses. the journey began with an intensive learning phase where I familiarized myself with the project's codebase, existing tools, and the concepts of RDF (Resource Description Framework) and RDF/XML.
+
+  - ## Development Process
+    - ### Technical Aspects
+      - **Utilizing `rdflib` for RDF Generation**  <br/>
+          I employed the `rdflib` library, a popular Python library for working with RDF data, to facilitate the generation of RDF/XML files. This library provided the necessary tools to define namespaces i.e. `rdflib.namespace`, create RDF triples, and structure the XML representation of the licenses and tools.
+      
+      - **Dynamic Generation of RDF/XML**  <br/>
+          To achieve the goal of generating RDF/XML files for different Creative Commons licenses and tools, I dynamically created RDF triples for license version and its associated attributes. This involved constructing the appropriate RDF elements, such as subjects, predicates, and objects, to accurately represent the licenses.
+
+      - **Namespace Management**  <br/>
+          In collaboration with mentor, I meticulously managed namespaces to ensure that the RDF/XML files adhered to best practices and maintained compatibility with the CC Legal Tools ecosystem. This included using built-in `rdflib namespaces` and adapting to specific requirements.
+
+      - **Sorting for Consistency**  <br/>
+          Understanding the importance of consistent representation, a sorting mechanism to arrange the RDF elements within the generated RDF/XML files is implemented. This sorting ensured that the files were organized and more reader-friendly.<br/>
+          The credit goes to *Timid Robot*.
 
 
+## Mentorship and Gratitude
+  I extend my heartfelt appreciation to my mentor, [***Timid Robot***](https://github.com/TimidRobot), for being an unwavering source of guidance and support throughout this remarkable journey. Your invaluable insights, patient guidance, and willingness to share your expertise have been instrumental in my growth and learning. Your mentorship has made this journey an unforgettable experience, and I am truly grateful for the opportunity to have worked with you.
 
+## Future Prospects
+The groundwork laid during this project establishes a strong foundation for further enhancements, including refining RDF generation efficiency, expanding language support, and exploring external application integration possibilities.
 
     
