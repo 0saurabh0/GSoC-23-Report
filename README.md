@@ -11,7 +11,7 @@
 
 | **Contributer**    | Saurabh Kumar                                                                                                 |
 | :------            | :-------------------------------------------------------------------------------------------------------------|
-| **Mentor**         | Timid Robot Zehta                                                                                             |
+| **Mentor**         | [Timid Robot Zehta](https://github.com/TimidRobot)                                                            |
 | **Organisation**   | [Creative Commons](https://creativecommons.org/)                                                              |
 | **Project**        | [CC LEGAL TOOLS: MACHINE READABLE LAYER](https://summerofcode.withgoogle.com/programs/2023/projects/9m8Ttuvo) |
 | **Github**         | [0saurabh0](https://github.com/0saurabh0)                                                                     |   
@@ -63,12 +63,31 @@ As the project involved creating a system that generates RDF/XML files conformin
       - **Sorting for Consistency**  <br/>
           Understanding the importance of consistent representation, a sorting mechanism to arrange the RDF elements within the generated RDF/XML files is implemented. This sorting ensured that the files were organized and more reader-friendly.<br/>
           The credit goes to *Timid Robot*.
+          
 
+    - ## Collaboration <br/>
+         - ### Throughout the GSoC, collaboration was the key: <br/>
+            I actively engaged with mentor, seeking guidance on technical challenges and aligning my work with project goals. <br/>
+            
+            Regular discussions with mentor provided clarity on Creative Commons specifications and RDF best practices. <br/>
+            
+            Feedback from mentor enriched my understanding and significantly influenced the quality of my work. <br/>
+
+    - ## And much more .... <br/>
+
+- # **All of the work done during GSoC can be found [HERE](https://github.com/creativecommons/cc-legal-tools-app/pull/357)**
 
 ## Mentorship and Gratitude
   I extend my heartfelt appreciation to my mentor, [***Timid Robot***](https://github.com/TimidRobot), for being an unwavering source of guidance and support throughout this remarkable journey. Your invaluable insights, patient guidance, and willingness to share your expertise have been instrumental in my growth and learning. Your mentorship has made this journey an unforgettable experience, and I am truly grateful for the opportunity to have worked with you.
 
-## Future Prospects
-The groundwork laid during this project establishes a strong foundation for further enhancements, including refining RDF generation efficiency, expanding language support, and exploring external application integration possibilities.
 
-    
+## Lessons Learned and Future Prospects
+Through this project, I acquired in-depth knowledge of `RDF`, `RDF/XML`, `Django` etc and the intricacies of working with open-source projects. The experience highlighted the significance of effective communication, collaboration, and problem-solving within the context of software development.
+
+Looking ahead, I am excited about the potential for further enhancements, the groundwork laid during this project establishes a strong foundation for further enhancements like exploring external application integration possibilities.
+
+## Thanks to [Creative Commons](https://creativecommons.org/) and [Timid Robot](https://github.com/TimidRobot) for providing me with an incredible Summer of Code experience!
+
+<p align="center">
+  ************
+</p>
