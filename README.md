@@ -11,6 +11,7 @@
 
 | **Contributer**    | Saurabh Kumar                                                                                                 |
 | :------            | :-------------------------------------------------------------------------------------------------------------|
+| **Mentor**         | Timid Robot Zehta                                                                                             |
 | **Organisation**   | [Creative Commons](https://creativecommons.org/)                                                              |
 | **Project**        | [CC LEGAL TOOLS: MACHINE READABLE LAYER](https://summerofcode.withgoogle.com/programs/2023/projects/9m8Ttuvo) |
 | **Github**         | [0saurabh0](https://github.com/0saurabh0)                                                                     |   
