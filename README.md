@@ -81,7 +81,7 @@ As the project involved creating a system that generates RDF/XML files conformin
   I extend my heartfelt appreciation to my mentor, [***Timid Robot***](https://github.com/TimidRobot), for being an unwavering source of guidance and support throughout this remarkable journey. Your invaluable insights, patient guidance, and willingness to share your expertise have been instrumental in my growth and learning. Your mentorship has made this journey an unforgettable experience, and I am truly grateful for the opportunity to have worked with you.
 
 
-## Lessons Learned and Future Prospects
+## Learnings and Future Prospects
 Through this project, I acquired in-depth knowledge of `RDF`, `RDF/XML`, `Django` etc and the intricacies of working with open-source projects. The experience highlighted the significance of effective communication, collaboration, and problem-solving within the context of software development.
 
 Looking ahead, I am excited about the potential for further enhancements, the groundwork laid during this project establishes a strong foundation for further enhancements like exploring external application integration possibilities.
