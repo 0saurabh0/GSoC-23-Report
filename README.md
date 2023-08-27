@@ -77,7 +77,7 @@ As the project involved creating a system that generates RDF/XML files conformin
 
 - ## **All of the work done during GSoC can be found [HERE](https://github.com/creativecommons/cc-legal-tools-app/pull/357)**
 
-## Mentorship and Gratitude
+## Mentorship
   I extend my heartfelt appreciation to my mentor, [***Timid Robot***](https://github.com/TimidRobot), for being an unwavering source of guidance and support throughout this remarkable journey. Your invaluable insights, patient guidance, and willingness to share your expertise have been instrumental in my growth and learning. Your mentorship has made this journey an unforgettable experience, and I am truly grateful for the opportunity to have worked with you.
 
 
