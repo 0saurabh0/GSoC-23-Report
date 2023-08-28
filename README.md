@@ -73,7 +73,10 @@ As the project involved creating a system that generates RDF/XML files conformin
             
             Feedback from mentor enriched my understanding and significantly influenced the quality of my work. <br/>
 
+    - #### During the course of the project, a significant achievement was the identification and resolution of 29 missing RDF/XML files from the legacy system. Through meticulous generation and integration, these files were seamlessly incorporated into the ecosystem. This proactive step not only aligns with the project's objectives but also contributes to a more comprehensive and cohesive machine-readable layer for Creative Commons licenses and tools. <br/>
+    
     - ### And much more .... <br/>
+
 
 - ## **All of the work done during GSoC can be found [HERE](https://github.com/creativecommons/cc-legal-tools-app/pull/357)**
 
