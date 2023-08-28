@@ -62,7 +62,7 @@ As the project involved creating a system that generates RDF/XML files conformin
 
       - **Sorting for Consistency**  <br/>
           Understanding the importance of consistent representation, a sorting mechanism to arrange the RDF elements within the generated RDF/XML files is implemented. This sorting ensured that the files were organized and more reader-friendly.<br/>
-          The credit goes to *Timid Robot*.
+          Collaborated with *Timid Robot* who committed the final implementation.
           
 
     - ## Collaboration <br/>
